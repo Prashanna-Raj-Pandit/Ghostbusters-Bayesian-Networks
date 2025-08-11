@@ -236,7 +236,7 @@ python autograder.py -t test_cases/q5/2-ParticleElapse
 ```
 <img src="./images/5a.png" height= 600 width= 500></img>
 
-<img src="./images/4.png" height= 400 width= 400></img>
+<img src="./images/5b.png" height= 600 width= 500></img>
 ### Q6 (4 pts): Joint Particle Filter – Observation
 ```
 python autograder.py -q q6
