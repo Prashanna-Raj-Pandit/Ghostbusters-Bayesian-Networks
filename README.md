@@ -7,7 +7,15 @@ In this project, you will implement inference algorithms to help Pacman track an
 
 This project builds on concepts in Bayesian Networks, probabilistic reasoning, and sequential state estimation.
 
+### Requiment
+```
+Python 2.7.18
+```
 
+### ▶️ Running the Code
+```
+python autograder.py
+```
 
 ```
 Question q1
