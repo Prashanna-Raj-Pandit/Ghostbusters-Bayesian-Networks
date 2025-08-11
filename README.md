@@ -2,6 +2,9 @@
 
 **Author: Prashanna Raj Pandit**
 
+<img src="./images/gb.gif"></img>
+
+
 ## Overview
 In this project, you will implement inference algorithms to help Pacman track and capture invisible ghosts using noisy distance readings. You will start with single, stationary ghosts and progress to hunting multiple moving ghosts using both exact and approximate inference techniques, including particle filters and joint particle filters.
 
@@ -206,17 +209,23 @@ python autograder.py -q q1
 python autograder.py -q q2
 python autograder.py -t test_cases/q2/2-ExactElapse
 ```
+<img src="./images/2.png" height= 400 width= 300></img>
+
 ### Q3 (3 pts): Exact Inference – Full System
 
 ```
 python autograder.py -q q3
 python autograder.py -q q3 --no-graphics
 ```
+
+<img src="./images/3.png" height= 400 width= 600></img>
+
 ### Q4 (3 pts): Approximate Inference – Observation
 
 ```
 python autograder.py -q q4
 ```
+<img src="./images/4.png" height= 400 width= 500></img>
 
 ### Q5 (4 pts): Approximate Inference – Time Elapse
 
@@ -225,6 +234,9 @@ python autograder.py -q q5
 python autograder.py -t test_cases/q5/2-ParticleElapse
 
 ```
+<img src="./images/5a.png" height= 600 width= 500></img>
+
+<img src="./images/4.png" height= 400 width= 400></img>
 ### Q6 (4 pts): Joint Particle Filter – Observation
 ```
 python autograder.py -q q6
